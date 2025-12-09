@@ -10,7 +10,7 @@
   - [さなちゃんねる字幕検索](https://natori-portal.onrender.com/search) で使用している文字起こしデータ
   - `yyyymmdd.vid.json`
     - 動画 ID ごとの文字起こしデータ
-  - `video.json`
+  - `_video.json`
     - 動画 ID から動画情報を引くためのデータ
 
 ## 使用上の注意
